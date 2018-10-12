@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1539108473 source:c:\users\fatu\desktop\asmi's hw\student.cpp
+	"Student.h"
+	<bits/stdc++.h>
+
+1539108491 c:\users\fatu\desktop\asmi's hw\student.h
+	<iostream>
+	<string>
+	<stdio.h>
+
